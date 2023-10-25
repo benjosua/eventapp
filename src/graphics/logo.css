@@ -1,0 +1,8 @@
+.logo img {
+  max-height: 70px;
+}
+
+.logo h1 {
+  margin: 1rem auto;
+  text-align: center;
+}
